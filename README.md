@@ -2,6 +2,8 @@
 
 Um jogo clássico de Tic Tac Toe (Jogo da Velha) desenvolvido com Next.js, TypeScript e Tailwind CSS, otimizado para deploy na plataforma Vercel.
 
+[Link versão online](https://tic-tac-toe-vercel-three.vercel.app/)
+
 ## 📋 Descrição
 
 Este projeto é uma implementação moderna do jogo Tic Tac Toe, onde dois jogadores alternam turnos para marcar células em um tabuleiro 3x3. O objetivo é formar uma linha, coluna ou diagonal com três marcas consecutivas. O jogo inclui detecção de vitória, empate e um botão de reset para reiniciar a partida.
